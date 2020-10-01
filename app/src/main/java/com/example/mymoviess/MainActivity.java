@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
             public void onReachEnd() {
                 if (!isLoading) {
                     downloadData(methodOfSort, page);
-                    Toast.makeText(MainActivity.this, "конец спискка", Toast.LENGTH_SHORT).show();
+
                 }
 
 

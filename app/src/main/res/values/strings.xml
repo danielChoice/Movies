@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="sort_by_popularity">по популярности</string>
+    <string name="sort_by_toprated">по рейтингу</string>
+    <string name="tw_title">Название:</string>
+    <string name="tw_originalTitle">Original name:</string>
+    <string name="twVoteAverage">Общая оценка:</string>
+    <string name="twOverView">Обзор:</string>
+    <string name="big_poster">Большой постер</string>
+    <string name="itemMain">Главная</string>
+    <string name="itemFavourite">Избранное</string>
+    <string name="text_trailers">Трейлеры</string>
+</resources>
